@@ -1,6 +1,5 @@
 # MT-ConBiFormer-GPT
 
-A brief, one-sentence summary of what your project accomplishes.
 
 ## Table of Contents
 1. [Description](#description)

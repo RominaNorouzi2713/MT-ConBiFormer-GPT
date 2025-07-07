@@ -1,12 +1,12 @@
 # MT-ConBiFormer-GPT
 
+![Encoder and Decoder Architecture](Encoder%20&%20Decoder%20Denovo%20recovered%20(1).png)
+
 
 ## Table of Contents
 1. [Description](#description)
 2. [Requirements](#requirements)
 3. [Usage](#usage)
-
-
 
 
 ### Description<a name="description"></a>

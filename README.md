@@ -25,6 +25,6 @@
 To set up the necessary environment to run this project, first clone the repository and then install the required packages from the `requirements.txt` file.
 
 ```bash
-git clone [https://github.com/RominaNorouzi2713/MT-ConBiFormer-GPT.git](https://github.com/RominaNorouzi2713/MT-ConBiFormer-GPT.git)
+git clone https://github.com/RominaNorouzi2713/MT-ConBiFormer-GPT.git](https://github.com/RominaNorouzi2713/MT-ConBiFormer-GPT.git
 cd MT-ConBiFormer-GPT
 pip install -r requirements.txt

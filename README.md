@@ -5,7 +5,7 @@
 1. [Description](#description)
 2. [Requirements](#requirements)
 3. [Usage](#usage)
-4. [How to Cite](#cite)
+
 
 
 

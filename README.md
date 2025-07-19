@@ -5,7 +5,6 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Requirements](#requirements)
-3. [Usage](#usage)
 
 
 ### Description<a name="description"></a>

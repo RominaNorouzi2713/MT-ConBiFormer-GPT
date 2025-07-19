@@ -9,10 +9,7 @@ from rdkit import Chem
 from rdkit.Chem import MolFromSmiles
 import sys
 import logging
-
-
 sys.path.append("") 
-from C10_vae_gt_r_b import VAE, OneHotTokenizer 
 
 # Add MolGrad to path and import its evaluation module
 # Assuming MolGrad directory is in the same directory as this script, or adjust path

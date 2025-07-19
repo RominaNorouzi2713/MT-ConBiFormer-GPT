@@ -14,7 +14,6 @@ import moses
 # --- Assumed to be in the same directory or accessible via sys.path ---
 MODEL_DEFINITION_PATH = ""
 sys.path.append(MODEL_DEFINITION_PATH)
-from C10_vae_gt_r_b import VAE, OneHotTokenizer, decode_smiles_from_indexes
 
 # ############################################################################
 # ## CONFIGURATION FOR STAGE 2 EVALUATION

@@ -15,7 +15,6 @@ import seaborn as sns
 import logging
 import sys
 sys.path.append("")
-from C10_vae_gt_r_b import OneHotTokenizer, VAE
 
 # Setup logging
 log_path = ""

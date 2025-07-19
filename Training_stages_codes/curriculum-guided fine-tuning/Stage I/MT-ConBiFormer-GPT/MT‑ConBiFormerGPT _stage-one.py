@@ -9,11 +9,7 @@ from rdkit import Chem
 from rdkit.Chem import MolFromSmiles
 import sys
 import logging
-
-
 sys.path.append("") 
-from C10_vae_gt_r_b import VAE, OneHotTokenizer #
-
 # Add MolGrad to path and import its evaluation module
 # Assuming MolGrad directory is in the same directory as this script, or adjust path
 current_script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -438,6 +434,6 @@ if __name__ == '__main__':
         sampling_temp=0.7, 
         sampling_top_k=20,
         samples_to_generate_epochwise=200, 
-        sample_every_n_epochs=1 # Sample every epoch like last log
+        sample_every_n_epochs=1 
     )
     logging.info("Script finished.")
